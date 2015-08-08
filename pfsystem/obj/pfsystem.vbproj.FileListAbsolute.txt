@@ -1,0 +1,43 @@
+D:\080824209徐犇\pfsystem\pfsystem\bin\Debug\pfsystem.exe
+D:\080824209徐犇\pfsystem\pfsystem\bin\Debug\pfsystem.pdb
+D:\080824209徐犇\pfsystem\pfsystem\bin\Debug\pfsystem.xml
+D:\080824209徐犇\pfsystem\pfsystem\obj\Debug\ResolveAssemblyReference.cache
+D:\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.frminit.resources
+D:\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.Resources.resources
+D:\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.vbproj.GenerateResource.Cache
+D:\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.exe
+D:\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.xml
+D:\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.pdb
+D:\080824209\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.exe
+D:\080824209\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.xml
+D:\080824209\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.pdb
+D:\080824209\080824209徐犇\pfsystem\pfsystem\bin\Debug\pfsystem.exe
+D:\080824209\080824209徐犇\pfsystem\pfsystem\bin\Debug\pfsystem.pdb
+D:\080824209\080824209徐犇\pfsystem\pfsystem\bin\Debug\pfsystem.xml
+D:\080824209\080824209徐犇\pfsystem\pfsystem\obj\Debug\ResolveAssemblyReference.cache
+D:\080824209\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.frminit.resources
+D:\080824209\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.Resources.resources
+D:\080824209\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.vbproj.GenerateResource.Cache
+D:\080824209\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.frmmain.resources
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.exe
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.xml
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.pdb
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.frminit.resources
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.frmmain.resources
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.Resources.resources
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\obj\Debug\pfsystem.vbproj.GenerateResource.Cache
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\bin\Debug\pfsystem.exe
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\bin\Debug\pfsystem.pdb
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\bin\Debug\pfsystem.xml
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\obj\Release\pfsystem.exe
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\obj\Release\pfsystem.xml
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\obj\Release\pfsystem.pdb
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\bin\Release\pfsystem.exe
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\bin\Release\pfsystem.pdb
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\bin\Release\pfsystem.xml
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\obj\Release\ResolveAssemblyReference.cache
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\obj\Release\pfsystem.frminit.resources
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\obj\Release\pfsystem.frmmain.resources
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\obj\Release\pfsystem.Resources.resources
+D:\My Documents\080824209徐犇\pfsystem\pfsystem\obj\Release\pfsystem.vbproj.GenerateResource.Cache
